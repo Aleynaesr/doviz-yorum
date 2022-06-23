@@ -1,16 +1,38 @@
-# doviz_yorum
+# Döviz Yorum App 🎈
 
-A new döviz yorum project.
+Döviz Yorum is a currency calculation app
 
-## Getting Started
+## Screen
 
-This project is a starting point for a Flutter application.
+ <table>
+   <tbody>
+      <tr>
+             <td><img src="https://user-images.githubusercontent.com/45822686/175270451-e72e2fa5-8f4c-447a-8eae-5912b925e3e5.png" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Packages in use:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* http: ^0.13.4
+   
+<hr> </hr>
+
+
+## To use this app follow below instructions :
+#### Clone this app using below syntax:
+
+``` git clone https://github.com/Aleynaesr/doviz-yorum.git```
+
+* After cloning install packages using below syntax:
+
+``` flutter pub get ```
+
+* Above command will install all the necessary packages.
+
+* Run the app on your mobile emulator using below command:
+
+``` flutter run ```
+
+Thank you happy coding  🎈
